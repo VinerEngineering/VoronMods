@@ -9,3 +9,5 @@ BOM:
 4x Self-tapping Screw, M2x10
 1m Flexcable (will fit 250 mm and 300mm)
 some double sided tape, like 3M 300SLE
+
+Created by Alexander Viner
